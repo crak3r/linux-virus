@@ -1,2 +1,2 @@
 #! /bin/sh 
-  geany
+  cheese
